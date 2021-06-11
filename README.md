@@ -1,2 +1,2 @@
 # ATE_tools
-Common tools for ATE test.
+Common tools for IC test.
